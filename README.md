@@ -1,7 +1,19 @@
 # Calculator with React.js 🚀
 
-<br/>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/76626529/185464101-32a5d8b0-04a5-48b0-940f-bdfcf6872385.png">
+## 🔨 Tools Used
+
+<p align="justify">
+<img height="140" width="140" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png">
+<img height="140" width="140" src="https://logodix.com/logo/470309.png">
+<img height="140" width="140" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
+<img height="140" width="140" src="https://code.visualstudio.com/assets/apple-touch-icon.png">
 </p>
+
+-  Version Control System: Git
+-  VCS Hosting: GitHub
+-  Programming / Scripting: JavaScript
+-  Front-End: HTML, CSS
+-  Integrated Development Environment: VSCode
+   <br/>
+   <br/>
 
