@@ -11,7 +11,7 @@
 
 -  Version Control System: Git
 -  VCS Hosting: GitHub
--  Programming / Scripting: JavaScript
+-  Programming / Scripting: React.js
 -  Front-End: HTML, CSS
 -  Integrated Development Environment: VSCode
    <br/>
