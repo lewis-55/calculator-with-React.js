@@ -17,3 +17,8 @@
    <br/>
    <br/>
 
+> [LinkedIn](https://www.linkedin.com/in/laxmikant-ukey-753bba12a/)
+
+> [YouTube](https://youtu.be/wY07eYAxc5Y)
+
+I hope you like the project. Thanks for reading :)
